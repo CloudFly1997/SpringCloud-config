@@ -1,2 +1,2 @@
 # SpringCloud-config
-微服务SpringCloud学习——配置
+SpringCloud学习-Conifg配置服务端
